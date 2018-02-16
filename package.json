@@ -1,0 +1,11 @@
+{
+  "name": "bittrex-bot",
+  "version": "1.0.0",
+  "description": "will allow you to set triggers on bittrex and will fire of mqtt messages when those are triggered",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Hansson",
+  "license": "ISC"
+}
